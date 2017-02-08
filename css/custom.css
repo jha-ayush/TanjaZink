@@ -64,6 +64,9 @@ img {
   #mobile-show{
     display: block;
   }
+  #section-padding{
+    padding: 600px 0 0 !important;
+  }
 }
 /* --------------------------------
 
